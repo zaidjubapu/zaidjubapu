@@ -24,7 +24,12 @@ Kotlin · Java · Android · Jetpack Compose · MVVM · Coroutines · Retrofit �
 ---
 
 ## 🌟 Highlight Projects
-> Replace links and descriptions below with the repo URLs / details you want to showcase.
+https://www.youtube.com/watch?v=UVQajYxbvIc
+SmartGuard: https://play.google.com/store/apps/details?id=com.zkteco.smartGuard
+Zlink: https://play.google.com/store/apps/details?id=com.zkbio.zlink
+EasyTimePro: https://play.google.com/store/apps/details?id=com.zkteco.easytimepro
+ZlinkAssistant: https://play.google.com/store/apps/details?id=com.zkteco.zlinkassistant
+
 
 ### 🔐 MySmartGuardPlus (Mobile)
 **Tech:** Kotlin · Jetpack Compose · MVVM · Retrofit · SQLite  
