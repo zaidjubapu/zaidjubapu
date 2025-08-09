@@ -24,11 +24,19 @@ Kotlin · Java · Android · Jetpack Compose · MVVM · Coroutines · Retrofit �
 ---
 
 ## 🌟 Highlight Projects
-https://www.youtube.com/watch?v=UVQajYxbvIc
-SmartGuard: https://play.google.com/store/apps/details?id=com.zkteco.smartGuard
-Zlink: https://play.google.com/store/apps/details?id=com.zkbio.zlink
-EasyTimePro: https://play.google.com/store/apps/details?id=com.zkteco.easytimepro
-ZlinkAssistant: https://play.google.com/store/apps/details?id=com.zkteco.zlinkassistant
+
+- **[SmartGuard](https://play.google.com/store/apps/details?id=com.zkteco.smartGuard)**  
+  Mobile visitor management & access control app integrated with kiosk features, subscription management, and role-based workflows.  
+  🎥 [Demo Video](https://www.youtube.com/watch?v=UVQajYxbvIc)
+
+- **[Zlink](https://play.google.com/store/apps/details?id=com.zkbio.zlink)**  
+  A versatile mobile platform for biometric device control, real-time monitoring, and access management.
+
+- **[EasyTimePro](https://play.google.com/store/apps/details?id=com.zkteco.easytimepro)**  
+  Attendance & workforce management mobile app for enterprises.
+
+- **[ZlinkAssistant](https://play.google.com/store/apps/details?id=com.zkteco.zlinkassistant)**  
+  Companion app for Zlink, enabling quick configurations, diagnostics, and remote management.
 
 
 ### 🔐 MySmartGuardPlus (Mobile)
